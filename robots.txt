@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /themes/
+Sitemap: https://uxiseverywhere.onfabrik.com/sitemap.xml
